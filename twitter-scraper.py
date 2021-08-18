@@ -1,5 +1,4 @@
 import csv
-from getpass import getpass
 from time import sleep
 
 # selenium imports
